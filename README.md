@@ -1,6 +1,6 @@
 # Udemy Project
 
-A simple Udemy homepage clone built with HTML and CSS.
+A Classic Udemy homepage clone built with HTML and CSS.
 
 ---
 
@@ -23,3 +23,4 @@ Tech Stack
 
 Setup
 Clone the repo:
+https://github.com/Dhivya2907/Udemy-Project.git
